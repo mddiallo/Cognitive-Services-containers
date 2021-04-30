@@ -1,7 +1,7 @@
 import requests
 from pprint import pprint
 
-language_uri = "http://20.xx.yy.zz:5000"
+language_uri = "http://localhost:5000"
 
 documents = { 'documents': [
     { 'id': '1', 'text': 'This is a document written in English.' },

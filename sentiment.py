@@ -1,4 +1,5 @@
 import requests
+
 from pprint import pprint
 
 sentiment_uri = "http://localhost:5000/text/analytics/v3.0/sentiment"
